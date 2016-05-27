@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cassandra-driver": {
+      "version": "3.0.0",
+      "resolved": "https://registry.npmjs.org/cassandra-driver/-/cassandra-driver-3.0.0.tgz",
+      "from": "cassandra-driver@3.0.0",
+      "dependencies": {
+        "async": {
+          "version": "1.5.2",
+          "resolved": "https://registry.npmjs.org/async/-/async-1.5.2.tgz",
+          "from": "async@>=1.5.0 <2.0.0"
+        },
+        "long": {
+          "version": "2.4.0",
+          "resolved": "https://registry.npmjs.org/long/-/long-2.4.0.tgz",
+          "from": "long@>=2.2.0 <3.0.0"
+        }
+      }
+    }
+  }
+}
